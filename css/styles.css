@@ -20,3 +20,20 @@ a{
   width: 100%;
   height: 100%;
 }
+
+#contact {
+  background-image: url(../Images/contactbg.jpg);
+}
+#headingContact {
+  text-align: center;
+  color: whitesmoke;
+  padding: 5%;
+}
+#form {
+  color: whitesmoke;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#btnSubmit {
+  align-self: center;
+} 
